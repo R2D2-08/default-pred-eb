@@ -18,5 +18,7 @@ Our goal is to learn the intricacies involved in this dataset to approximate the
 We employ an artificial neural network to predict the probability of default on credit card payments.
 
 The dataset has been taken from the UC Irvine Machine Learning Repository website
+
 The Link to the website: https://archive.ics.uci.edu/datasets
+
 The Link to the website of the dataset: https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
